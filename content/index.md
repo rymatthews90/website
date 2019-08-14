@@ -1,6 +1,6 @@
 Welcome to the official website of the Berkeley Hang Gliding Club
 (BHGC). This site contains information mainly for the club members, but
-also some information about how the club once a year ([sign up during September](<%=pathToRoot%>join/)) teach new pilots how to fly hang gliders.
+also some information about how the club once a year ([sign up during September](<%=pathToRoot%>join/)) teaches new pilots how to fly hang gliders.
 
 <%------------------------------------------------------------------------
 Signup Panel:
